@@ -29,8 +29,8 @@ A **simple and interactive command-line To-Do List application** built with Pyth
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
-   cd todo-list-app
+   git clone https://github.com/hyberion/cd_notepad_project
+   cd cd_notepad_project
    ```
 
 2. **Install Python**:
@@ -38,7 +38,7 @@ A **simple and interactive command-line To-Do List application** built with Pyth
 
 3. **Run the App**:
    ```bash
-   python todo_list_app.py
+   python ct_todo_app.v2.py
    ```
 
 ---
@@ -95,7 +95,7 @@ All tasks are saved automatically in a JSON file (`tasks.json`). When you restar
 
 ## 🎉 Hidden Feature: The Secret Joke
 
-Type `42` at the main menu to reveal a programmer's favorite joke. 🤫
+Type `42` at the main menu to reveal a programmer's joke. 🤫
 
 ---
 
@@ -109,9 +109,10 @@ Type `42` at the main menu to reveal a programmer's favorite joke. 🤫
 ## 📂 File Structure
 
 ```
-todo-list-app/
+cd_notepad_project/
 ├── tasks.json            # File to store tasks (auto-generated)
-├── todo_list_app.py      # Main application script
+├── ct_todo_app.v2.py     # Main application script- Run this one over v1.
+├── ct_todo_app_v1.py     #Earlier version that's not as fancy but included for completeness
 ├── README.md             # Documentation (this file)
 ```
 
@@ -128,14 +129,15 @@ Contributions are welcome! If you find bugs or want to add features, feel free t
 
 ## 📜 License
 
-This project is licensed under the [WHY THE HELL NOT] Licence.
-The proper benedictions have been performed.  The Machine spirt is appeased.
+This project is licensed under the [WHY THE HELL NOT] Licence.  Because Why The Hell Not?
+The proper benedictions have been performed.  The Machine spirit is appeased.
 
 ---
 
 ## ❤️ Acknowledgments
 
 - Built with ❤️ , caffiene, and Python.
+- Brought to you by the letter C and the numbers 9, 18, and 64.18
 - The Emperor Protects
 
 ---
